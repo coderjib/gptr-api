@@ -1,0 +1,4 @@
+gpt-researcher
+fastapi
+uvicorn
+python-dotenv
